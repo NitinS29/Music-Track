@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="limit_lbl">Limit:</string>
+    <string name="serach">Search</string>
+    <string name="reset">Reset</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="price">Price</string>
+    <string name="date">Date</string>
+    <string name="result">Results</string>
+    <string name="finish">Finish</string>
+    <item name="tvTitle" type="id" />
+    <item name="tvPrice" type="id" />
+    <item name="tvArtist" type="id" />
+    <item name="tvdate" type="id" />
+</resources>
